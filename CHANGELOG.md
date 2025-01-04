@@ -1,5 +1,11 @@
 # Changelog
 
+### Release 1.30 - 04 Jan 2025
+
+* [JENKINS-75013](https://issues.jenkins.io/browse/JENKINS-75013) Remove loading of yui treeview ([PR #52](https://github.com/jenkinsci/sectioned-view-plugin/pull/52))
+* Bump org.jenkins-ci.plugins:plugin from 5.2 to 5.4 ([PR #53](https://github.com/jenkinsci/sectioned-view-plugin/pull/53))
+* Bump io.jenkins.tools.bom:bom-2.479.x from 3654.v237e4a_f2d8da_ to 3850.vb_c5319efa_e29 ([PR #54](https://github.com/jenkinsci/sectioned-view-plugin/pull/54))
+
 ### Release 1.29 - 14 Nov 2024
 
 * Migrate to Jakarta EE 9 ([PR #45](https://github.com/jenkinsci/sectioned-view-plugin/pull/45))
