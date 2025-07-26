@@ -87,10 +87,10 @@ public class TextSection extends SectionedViewSection {
      */
     public enum Style {
         NONE("None", ""),
-        NOTE("Note", "sectioned-view-note"),
-        INFO("Info", "sectioned-view-info"),
-        WARN("Warning", "sectioned-view-warning"),
-        TIP("Tip", "sectioned-view-tip");
+        NOTE("Note", "jenkins-alert-warning"),
+        INFO("Info", "jenkins-alert-info"),
+        WARN("Warning", "jenkins-alert-danger"),
+        TIP("Tip", "jenkins-alert-success");
 
         private final String description;
 
